@@ -1,0 +1,15 @@
+1. Logo Size increase by length and breadth.
+2. Search logo maa bich ko vertical line hataune. Search box laai ali sano banaune horizontally ani logo ko length le occupy garne.
+3. Banner maa transition haru haalne. Ani tyyesko laagi ni euta CMS thapdine.
+4. Wholesale enquiry ko satta Design your own vanne haldine.
+5. latest added product agadi agadi leraune. Ani CMS maa price range maa kei nahaleko maa Price Range vanne text na dekhaune.
+6. Enquiry now ko spelling Enquity now vaako xa
+7. Site ko title bar maa arkai logo auxa Home page and CMS maa. Tesma favicon change garna laai euta cms add gardine.
+8. Stay Connected ani Help & Contact laai ni CMS milaune.
+9. Contact us page ko form maa mobile number bhanne ni field rakhne. Ani tyo We would laai form ko maathi leraune. Ani tyo phn numer ra email sddress ko satta maa map haldine euta marker sahit.
+10. Category add garna namilne bhako xa tyo milaidine.
+11. CMS page maa mathi HTML 5 vanne titel auxa. Tesma Shree SS Dashboard lekhne
+12.CMS ko product page maa Title ko spelling bigreko xa.
+13. Naya haalkeko product online view gardaa picture audaina. Tyo problem ni milaidine.
+14. CMS page ekchoti refresh garda add garne thau tala sardo recha. tyo ni fix gardinu.
+

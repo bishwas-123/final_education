@@ -1,0 +1,63 @@
+    .course-tabs li{display: inline;
+    padding: 12px;
+    background: #048f86;color:white;
+	
+	margin-right: 10px;
+	cursor: pointer;
+	border-radius: 3px;
+
+}
+/* ###########For Experience Period --Years and Month############## */
+.exp_period_box{
+    width:200px;/* border:1px solid red; */
+}
+.exp_period_box_content label{
+	padding-right: 5px;
+}   
+.exp_period_box_element{
+	width: 125px;
+    height: 34px;
+    border-radius: 4px;
+    /* border: 1px solid red; */
+    padding-left: 10px;
+}
+.exp_period_box_content select{
+	 border: 1px solid #e3e3e3;
+}
+.exp_period_box_content select:focus{
+	border-color: #00a651;
+
+}
+/* ###########end of Experience Period --Years and Month############## */
+/* ###########this for i tag of short college detail info############## */
+	.short-info.f{
+		padding:0 5px 0 2px;
+	}
+/* ########### end of this for i tag of short college detail info############## */
+
+button.form-control.search-btn-align{
+	 margin-right: 5px !important;
+    margin-bottom: 5px !important;
+
+}
+.section.search-result.text-center{
+	border-top:4px solid #01a69b;
+	padding: 1px;
+    display: block;
+    cursor: pointer;
+    width: 98%;
+    margin-top: -22px;
+    margin-left: 8px;
+    border-radius: 0px;
+       -webkit-transition: opacity 2s ease-in;
+       -moz-transition: opacity 2s ease-in;
+        -ms-transition: opacity 2s ease-in;
+         -o-transition: opacity 2s ease-in;
+            transition: opacity 2s ease-in;
+
+}
+
+div .search-box{
+   text-align: left !important;
+   /*padding-bottom: 0px;*/
+        }
